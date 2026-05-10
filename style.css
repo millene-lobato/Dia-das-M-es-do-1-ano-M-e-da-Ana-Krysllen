@@ -111,7 +111,7 @@ body {
 }
 
 .envelope.aberto .carta {
-  transform: translateY(-65%); /* 🔥 corrigido */
+  transform: translateY(-40%); /* 🔥 corrigido */
   opacity: 1;
 }
 
